@@ -1,16 +1,16 @@
 # Hi 👋, I'm Kamala G
 
-### Aspiring Data Analyst | MCA Student
+### MCA Student | Aspiring Data Analyst
 
-I am an MCA student passionate about Data Analytics and interested in turning data into meaningful insights.
+I am an MCA student interested in Data Analytics and passionate about using data to solve real-world problems. I am currently developing my skills in Python, SQL, Excel and Power BI.
 
 ## 🎓 About Me
 
 - 🎓 Pursuing Master of Computer Applications (MCA)
 - 📊 Aspiring Data Analyst
-- 🐍 Interested in Python and Data Analytics
+- 🐍 Interested in Python and Data Analysis
 - 🗄️ Learning SQL and Database Analysis
-- 📈 Interested in Excel and Power BI
+- 📈 Building skills in Excel and Power BI
 - 💡 Interested in solving real-world problems using data
 - 🚀 Currently building my Data Analytics portfolio
 
@@ -23,8 +23,8 @@ I am an MCA student passionate about Data Analytics and interested in turning da
 - Matplotlib
 
 ### Database
-- MySQL
 - SQL
+- MySQL
 
 ### Data Visualization & BI
 - Microsoft Excel
@@ -43,32 +43,16 @@ I am an MCA student passionate about Data Analytics and interested in turning da
 - Regression
 - Classification
 
-### Tools & Platforms
+### Tools
 - Git
 - GitHub
 - Jupyter Notebook
 - VS Code
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. Solving Linear Programming Problems Using Python
-A Python-based project for solving Linear Programming problems using:
-- Graphical Method
-- Simplex Method
-- Big M Method
-- Two-Phase Method
-
-### 2. Python Data Analysis
-Data cleaning, exploratory data analysis and visualization using Python.
-
-### 3. SQL Data Analysis
-Data analysis using MySQL and SQL queries.
-
-### 4. Excel Dashboard
-Data analysis and dashboard reporting using Microsoft Excel.
-
-### 5. Power BI Dashboard
-Interactive data visualization and business intelligence dashboard using Power BI.
+### 1. Linear Programming Using Python
+Python-based project for solving Linear Programming problems using different optimization methods.
 
 ## 📚 Currently Learning
 
@@ -80,28 +64,13 @@ Interactive data visualization and business intelligence dashboard using Power B
 
 ## 💼 Experience
 
-Worked as a Video Analyst at Data Corp Private Limited, where I worked with video-based data, data cleaning, validation and Excel reporting.
+Worked as a Video Analyst at Data Corp Private Limited, with experience in video-based data analysis, data cleaning, validation and Excel reporting.
 
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/kamala-g-496536428
-- GitHub: https://github.com/kamalag3740-cmd
+- LinkedIn: [Kamala G](https://www.linkedin.com/in/kamala-g-496536428/)
+- GitHub: [kamalag3740-cmd](https://github.com/kamalag3740-cmd)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-<!--
-**kamalag3740-cmd/kamalag3740-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
